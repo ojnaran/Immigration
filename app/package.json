@@ -1,0 +1,10 @@
+{
+  "name": "maplepath",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "expo": "~50.0.14",
+    "react": "18.2.0",
+    "react-native": "0.73.7"
+  }
+}
